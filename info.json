@@ -1,0 +1,11 @@
+{
+ "name": "SingleDog",
+ "website": "https://singledog.me",
+ "description": "SingleDog (简称SDM)中文名：单身狗，是单身狗生态链治理代币",
+ "explorer": "https://bscscan.com/token/0xdad07ea1ff830b89e2da1163bc8c2ed3925636eb",
+ "type": "BEP20",
+ "symbol": "SDM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdad07ea1ff830b89e2da1163bc8c2ed3925636eb"
+}
